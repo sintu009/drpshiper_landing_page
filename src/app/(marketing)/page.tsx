@@ -65,7 +65,7 @@ const HomePage = async () => {
                                 delay={9}
                             />
                             <Image
-                                src="/assets/dashboard-dark.svg"
+                                src="/assets/dashboard-dark2.avif"
                                 alt="Dashboard"
                                 width={1200}
                                 height={1200}
