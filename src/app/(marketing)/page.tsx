@@ -304,9 +304,9 @@ const HomePage = async () => {
                             <h2 className="bg-gradient-to-b from-neutral-200 to-neutral-400 py-4 bg-clip-text text-center text-4xl md:text-7xl !leading-[1.15] font-medium font-heading tracking-tight text-transparent mt-8">
                                 Ready to streamline your Ecom Business?
                             </h2>
-                            <p className="text-muted-foreground mt-6 max-w-md mx-auto">
-                              Start using Drpshippr today and supercharge your team's efficiency.
-                            </p>
+                                                        <p className="text-muted-foreground mt-6 max-w-md mx-auto">
+                                                            Start using Drpshippr today and supercharge your team&apos;s efficiency.
+                                                        </p>
                             <div className="mt-6">
                                 <Button>
                                     Get started for free

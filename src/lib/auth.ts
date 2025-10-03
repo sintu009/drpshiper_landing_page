@@ -45,4 +45,6 @@ export async function currentUser() {
     return null;
 }
 
-export default {};
+const authStub = {};
+
+export default authStub;
