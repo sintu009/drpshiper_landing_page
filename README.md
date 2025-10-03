@@ -41,16 +41,8 @@ To run Linkify locally, follow these steps:
     npm run dev
     ```
 
-## ☕ Buy Me a Coffee
-If you enjoy using Linkify, consider supporting my work!  
-[Buy Me a Coffee ☕](https://buymeacoffee.com/shreyas29)
-
+ 
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## 💬 Contact
-If you have any questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/Shreyas-29/linkify/issues).
-
----
-
-Built with ❤️ by [Shreyas](https://shreyas-sihasane.vercel.app/)
+ 
